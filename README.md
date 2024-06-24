@@ -19,4 +19,8 @@ destroy-destroy the entire list are moving all contacts and their info
 help-prints menu.
 quit-ends program.
 
-* Can't add duplicate contacts to the contact list in error message will print. Contacts to be the same they have to have the same first name and last name. 
+* Can't add duplicate contacts to the contact list in error message will print. Contacts to be the same they have to have the same first name and last name.
+
+
+compile command: gcc gitmain.cpp p3.cpp
+
